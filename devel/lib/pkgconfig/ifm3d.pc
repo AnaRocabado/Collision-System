@@ -1,0 +1,8 @@
+prefix=/home/ana/collision_system_ws/devel
+
+Name: ifm3d
+Description: Description of ifm3d
+Version: 0.6.2
+Cflags: -I/home/ana/collision_system_ws/devel/include -I/home/ana/collision_system_ws/src/ifm3d-ros/include
+Libs: -L${prefix}/lib -lifm3d_ros
+Requires: roscpp nodelet

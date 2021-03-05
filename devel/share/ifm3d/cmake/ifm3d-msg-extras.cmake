@@ -1,0 +1,2 @@
+set(ifm3d_MESSAGE_FILES "/home/ana/collision_system_ws/src/ifm3d-ros/msg/Extrinsics.msg")
+set(ifm3d_SERVICE_FILES "/home/ana/collision_system_ws/src/ifm3d-ros/srv/Dump.srv;/home/ana/collision_system_ws/src/ifm3d-ros/srv/Config.srv;/home/ana/collision_system_ws/src/ifm3d-ros/srv/Trigger.srv;/home/ana/collision_system_ws/src/ifm3d-ros/srv/SoftOff.srv;/home/ana/collision_system_ws/src/ifm3d-ros/srv/SoftOn.srv;/home/ana/collision_system_ws/src/ifm3d-ros/srv/SyncClocks.srv")

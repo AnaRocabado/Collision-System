@@ -1,0 +1,7 @@
+set(ifm3d_SETUP_PY_SETUP_MODULE "distutils.core")
+set(ifm3d_SETUP_PY_VERSION "0.6.2")
+set(ifm3d_SETUP_PY_SCRIPTS "")
+set(ifm3d_SETUP_PY_PACKAGES "ifm3d")
+set(ifm3d_SETUP_PY_PACKAGE_DIRS "pylib/ifm3d")
+set(ifm3d_SETUP_PY_MODULES "")
+set(ifm3d_SETUP_PY_MODULE_DIRS "")

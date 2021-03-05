@@ -1,0 +1,8 @@
+prefix=/home/ana/collision_system_ws/install
+
+Name: robotic_lab
+Description: Description of robotic_lab
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
